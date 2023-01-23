@@ -13,8 +13,9 @@ Keep guessing until you get it right!
 quit: "ctrl+c"
 
 UPDATES
--------V1.1(BETA)
------------
+-------
+
+**V1.1(BETA)**
 In this release, logic was added to make the game more **exciting**. 
 
 LOGIC 
