@@ -4,6 +4,8 @@ This here is a simple guessing game made in rust!
 
 INSTRUCTIONS
 ------------
+clone repo
+
 start: $ cargo run
 
 This will ask you to guess a number. 
